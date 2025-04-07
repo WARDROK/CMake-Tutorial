@@ -1,0 +1,7 @@
+/home/xxst/SWO/lab2_prepare/cmake_tutorial/Step2_build/CMakeFiles/Tutorial.dir
+/home/xxst/SWO/lab2_prepare/cmake_tutorial/Step2_build/CMakeFiles/edit_cache.dir
+/home/xxst/SWO/lab2_prepare/cmake_tutorial/Step2_build/CMakeFiles/rebuild_cache.dir
+/home/xxst/SWO/lab2_prepare/cmake_tutorial/Step2_build/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/xxst/SWO/lab2_prepare/cmake_tutorial/Step2_build/MathFunctions/CMakeFiles/SqrtLibrary.dir
+/home/xxst/SWO/lab2_prepare/cmake_tutorial/Step2_build/MathFunctions/CMakeFiles/edit_cache.dir
+/home/xxst/SWO/lab2_prepare/cmake_tutorial/Step2_build/MathFunctions/CMakeFiles/rebuild_cache.dir
